@@ -10,7 +10,7 @@
 
 <h4 align="left"> 2025 - Lua
 <h5 align="right">Vinícius Estevam da Silva
-<h4 align="left">Vou fazer aqui coisas mais ismples ou apenas para<br> praticar nada muito complicado ou exagerado
+
   
 <br clear="both">
 
