@@ -19,8 +19,8 @@
 ###
 
 <div align="left">
-  <img src="https://media.tenor.com/A3QDTBkXjSsAAAAi/lua.gif" height="50" alt="lua logo"  />
-  <img width="40" />
+  <img src="https://media.tenor.com/A3QDTBkXjSsAAAAi/lua.gif" height="70" alt="lua logo"  />
+  <img width="50" />
 <div/>
 
   ###
