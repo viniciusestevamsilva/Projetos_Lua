@@ -19,7 +19,7 @@
 ###
 
 <div align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" height="50" alt="python logo"  />
+  <img src="https://media.tenor.com/A3QDTBkXjSsAAAAi/lua.gif" height="50" alt="lua logo"  />
   <img width="40" />
 <div/>
 
